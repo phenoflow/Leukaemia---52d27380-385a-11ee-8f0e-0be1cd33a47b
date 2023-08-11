@@ -1,0 +1,165 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/haematopoietic-leukaemia---primary.py
+inputModule3:
+  class: File
+  path: python/leukaemia-malig---primary.py
+inputModule4:
+  class: File
+  path: python/leukaemia-sarcoma---primary.py
+inputModule5:
+  class: File
+  path: python/leukaemia-specified---primary.py
+inputModule6:
+  class: File
+  path: python/prolymphocytic-leukaemia---primary.py
+inputModule7:
+  class: File
+  path: python/leukaemia-burkitt---primary.py
+inputModule8:
+  class: File
+  path: python/leukaemia-nonhodgkin---primary.py
+inputModule9:
+  class: File
+  path: python/leukaemia-granuloma---primary.py
+inputModule10:
+  class: File
+  path: python/leukaemia-predominance---primary.py
+inputModule11:
+  class: File
+  path: python/intrapelvic-leukaemia---primary.py
+inputModule12:
+  class: File
+  path: python/leukaemia-sclerosis---primary.py
+inputModule13:
+  class: File
+  path: python/leukaemia-spleen---primary.py
+inputModule14:
+  class: File
+  path: python/leukaemia-cellularity---primary.py
+inputModule15:
+  class: File
+  path: python/classical-leukaemia---primary.py
+inputModule16:
+  class: File
+  path: python/nodular-leukaemia---primary.py
+inputModule17:
+  class: File
+  path: python/leukaemia-fungoide---primary.py
+inputModule18:
+  class: File
+  path: python/leukaemia-sezary---primary.py
+inputModule19:
+  class: File
+  path: python/leukaemia-reticuloendotheliosis---primary.py
+inputModule20:
+  class: File
+  path: python/leukaemia-langerhanscell---primary.py
+inputModule21:
+  class: File
+  path: python/leukaemia-letterersiwe---primary.py
+inputModule22:
+  class: File
+  path: python/leukaemia-histiocytosis---primary.py
+inputModule23:
+  class: File
+  path: python/nonfollicular-leukaemia---primary.py
+inputModule24:
+  class: File
+  path: python/leukaemia-diffuse---primary.py
+inputModule25:
+  class: File
+  path: python/lymphoblastic-leukaemia---primary.py
+inputModule26:
+  class: File
+  path: python/leukaemia-lymph---primary.py
+inputModule27:
+  class: File
+  path: python/leukaemia-maltoma---primary.py
+inputModule28:
+  class: File
+  path: python/large-leukaemia---primary.py
+inputModule29:
+  class: File
+  path: python/leukaemia-tissue---primary.py
+inputModule30:
+  class: File
+  path: python/leukaemia-nkcell---primary.py
+inputModule31:
+  class: File
+  path: python/anaplastic-leukaemia---primary.py
+inputModule32:
+  class: File
+  path: python/cutaneous-leukaemia---primary.py
+inputModule33:
+  class: File
+  path: python/leukaemia-tcell---primary.py
+inputModule34:
+  class: File
+  path: python/peripheral-leukaemia---primary.py
+inputModule35:
+  class: File
+  path: python/small-leukaemia---primary.py
+inputModule36:
+  class: File
+  path: python/lymphocytichistiocytic-leukaemia---primary.py
+inputModule37:
+  class: File
+  path: python/immunoproliferative-leukaemia---primary.py
+inputModule38:
+  class: File
+  path: python/leukaemia-myeloma---primary.py
+inputModule39:
+  class: File
+  path: python/leukaemia-kahler's---primary.py
+inputModule40:
+  class: File
+  path: python/leukaemia-plasma---primary.py
+inputModule41:
+  class: File
+  path: python/solitary-leukaemia---primary.py
+inputModule42:
+  class: File
+  path: python/lymphoid-leukaemia---primary.py
+inputModule43:
+  class: File
+  path: python/lymphatic-leukaemia---primary.py
+inputModule44:
+  class: File
+  path: python/leukaemia-subacute---primary.py
+inputModule45:
+  class: File
+  path: python/chronic-leukaemia---primary.py
+inputModule46:
+  class: File
+  path: python/adult-leukaemia---primary.py
+inputModule47:
+  class: File
+  path: python/myeloid-leukaemia---primary.py
+inputModule48:
+  class: File
+  path: python/granulocytic-leukaemia---primary.py
+inputModule49:
+  class: File
+  path: python/leukaemia-chloroma---primary.py
+inputModule50:
+  class: File
+  path: python/myelomonocytic-leukaemia---primary.py
+inputModule51:
+  class: File
+  path: python/leukaemia---primary.py
+inputModule52:
+  class: File
+  path: python/leukaemia-erythraemia---primary.py
+inputModule53:
+  class: File
+  path: python/leukaemia-guglielmo's---primary.py
+inputModule54:
+  class: File
+  path: python/myeloproliferative-leukaemia---primary.py
+inputModule55:
+  class: File
+  path: python/output-cases.py
